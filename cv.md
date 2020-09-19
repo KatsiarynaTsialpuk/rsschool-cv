@@ -2,14 +2,14 @@
 
 ### *Contacts:*
 ---
-**Email:** test@test.com
-**Phone:** +375 44 824 57 61
+**Email:** test@test.com. 
+**Phone:** +375 44 824 57 61. 
 
 ### *Personal Info:*
 ---
-**Date of birthday:** 20/10/1993
-**Place of living:** Minsk
-**Family status:** Single
+**Date of birthday:** 20/10/1993. 
+**Place of living:** Minsk  
+**Family status:** Single. 
 
 ### *Education:*
 ---
