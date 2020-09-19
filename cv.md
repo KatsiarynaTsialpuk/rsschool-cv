@@ -25,14 +25,14 @@
 
 ### *Technical Skills:*
 ---
-**Design Tools:** Adobe Photoshop, Sketch, Adobe XD, Adobe Illustrator, Adobe Edge Animate;
-**Version control system:** Git;
-**Manage Tool:** Jira;
-**Operation systems:** Mac OS; Windows 7/8/10; Linux(Ubuntu) - basic;
-**Technologies:** HTML5, CSS3, Less, Sass, Flexbox, CSS Grid;
-PUG; Bootstrap 3; Materialize; BEM;
-API Google maps;
-API Yandex maps;
+**Design Tools:** Adobe Photoshop, Sketch, Adobe XD, Adobe Illustrator, Adobe Edge Animate;  
+**Version control system:** Git;  
+**Manage Tool:** Jira;  
+**Operation systems:** Mac OS; Windows 7/8/10; Linux(Ubuntu) - basic;  
+**Technologies:** HTML5, CSS3, Less, Sass, Flexbox, CSS Grid;  
+PUG; Bootstrap 3; Materialize; BEM;  
+API Google maps;  
+API Yandex maps;  
 **English** –Intermediate.
 
 ### *Professional purposes:*
