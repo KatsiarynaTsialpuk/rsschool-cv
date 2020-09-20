@@ -9,6 +9,10 @@ main {
     margin: 0 auto;
 }
 
+hr {
+    border-color: black;
+}
+
 .cv-background {
     display: flex;
     flex-direction: column;
@@ -45,8 +49,4 @@ h2,
 hr,
 .item {
     margin-bottom: 10px;
-}
-
-hr {
-    border-color: black;
 }
